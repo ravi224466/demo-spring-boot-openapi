@@ -1,0 +1,2 @@
+# demo-spring-boot-openapi
+A demo application of generating spring boot restful web service using open api
