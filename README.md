@@ -10,8 +10,6 @@ Updated Main Application...!
 # Added new change in branch 2 that is specific to branch 2 
 
 
-<<<<<<< HEAD
 # Added Second change in branch 2 that is specific to branch 2 
-=======
-# Added Second change in branch 2 that is specific to branch 2 
->>>>>>> 15f82d7 (branch2 specific change Two)
+
+
