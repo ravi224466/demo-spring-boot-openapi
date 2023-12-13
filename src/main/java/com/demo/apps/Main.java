@@ -8,4 +8,6 @@ public class Main {
 	public void mainBranchMethod(){
 		System.out.println("Main branch!");
 	}
-}
+	public void method1(){
+	
+	}
