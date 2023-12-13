@@ -7,5 +7,6 @@ public class Main {
 	
 	public void mainBranchMethod(){
 		System.out.println("Main branch!");
+		System.out.println("Main branch update-2!");
 	}
 }
